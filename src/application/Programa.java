@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import entities.Anuncio;
 
-public class Program {
+public class Programa {
 
 	public static void main(String[] args) {
 	
