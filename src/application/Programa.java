@@ -7,7 +7,6 @@ import entities.Anuncio;
 public class Programa {
 
 	public static void main(String[] args) {
-	
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("CALCULADORA DE ALCANCE DE ANÚNCIO ONLINE");
